@@ -6,7 +6,7 @@ Use this gif as an example of how the app should work.
 
 ## Instructions
 
-Welcome to Poesy, where your poetry masterpieces come to life! Our old front-end team laid down the foundations for our app, but it looks like they forgot all the functionality!
+Welcome to Poesy, where your poetry masterpieces come to life, this is a frontend application where you can add your poem and have a full control over it
 
 ## Setup
 
