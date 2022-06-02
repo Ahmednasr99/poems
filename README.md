@@ -1,5 +1,3 @@
-# Module 4 Code Challenge: Poesy
-
 ## Demo
 
 Use this gif as an example of how the app should work.
